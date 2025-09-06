@@ -25,3 +25,4 @@
 
 | Date | Rewards |
 | :---: | :---: |
+| 9/6/2025 | <img src="https://prod-hub-config.8ballpool.com/assets/9TJxckNAbgx81BoWBGVH0gz3HDNirkQ__rTaMDA7NDbPG1qtTq2RnRfsK5i5giQtOCi3C3HDLfpodN2C2xEj2g~uhI0TW2W3UEbpvnxAAxFV8ZdvwKBWRsfgVJ8TJDLR80.png" height="25" alt="Daily Reward - 9/5"/> Daily Reward - 9/5 x1; <img src="https://prod-hub-config.8ballpool.com/assets/uew70LP1xb3fHZ8xtHSMRjEDW6rQ-cY3eRnnLRVJ5PBkhlO70MdgREScjjHMEG3N3FfsdgoJReO2lQIBmWkjLA~ENU5GRG4OIdHfBvOoxa5uTu2UabVzPAuR6xkk5SJypA.png" height="25" alt="Strike Zone Cue Piece"/> Strike Zone Cue Piece x2 |
